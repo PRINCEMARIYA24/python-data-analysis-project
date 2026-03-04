@@ -1,31 +1,62 @@
-# Python Data Analysis Project
+# Python Exploratory Data Analysis Project
 
-This project performs Exploratory Data Analysis (EDA) using Python to uncover insights from a dataset.
+## Overview
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+This project performs **Exploratory Data Analysis (EDA)** using Python to understand patterns, trends, and relationships within the dataset. The analysis focuses on cleaning raw data, performing statistical exploration, and visualizing insights to support data-driven decision making.
 
-## Project Steps
-1. Data loading
-2. Data cleaning
-3. Handling missing values
-4. Exploratory data analysis
-5. Data visualization
-6. Insight generation
+The project demonstrates core **Data Analyst skills**, including data cleaning, data transformation, visualization, and insight extraction.
 
-## Key Insights
-- Identified important patterns and relationships within the dataset
-- Visualized data trends using charts and graphs
-- Performed statistical analysis to support data-driven insights
+---
 
-## Files
-- `dataset.csv` → Raw dataset
-- `eda_analysis.ipynb` → Python analysis notebook
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## Project Workflow
+
+1. Data Loading
+   Imported dataset using Pandas for structured analysis.
+
+2. Data Cleaning
+
+   * Handled missing values
+   * Removed inconsistencies
+   * Corrected data formats
+
+3. Exploratory Data Analysis
+
+   * Generated descriptive statistics
+   * Identified patterns and distributions
+
+4. Data Visualization
+   Created visual insights using charts and graphs.
+
+5. Insight Generation
+   Extracted meaningful findings to support data interpretation.
+
+---
+
+## Key Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Python Data Processing
+  
+---
 
 ## Author
+
 Prince Mariya
+Computer Science Graduate | Data Analyst Enthusiast
+
+LinkedIn:
+https://www.linkedin.com/in/princemariya
