@@ -19,6 +19,22 @@ The project demonstrates core **Data Analyst skills**, including data cleaning, 
 
 ---
 
+## Dataset Description
+
+The dataset contains business-related transactional data used for exploratory analysis.
+
+Key attributes include:
+
+• Category – Product category  
+• Sales – Total sales value  
+• Quantity – Number of units sold  
+• Region – Geographic sales region  
+• Profit – Profit generated from sales
+
+The dataset is used to analyze trends, relationships, and performance patterns across different categories and regions.
+
+---
+
 ## Project Workflow
 
 1. Data Loading
@@ -43,6 +59,34 @@ The project demonstrates core **Data Analyst skills**, including data cleaning, 
 
 ---
 
+## Data Visualizations
+
+The analysis includes several visualizations such as:
+
+* Distribution plots
+
+* Correlation heatmaps
+
+* Bar charts
+
+* Trend analysis graphs
+
+These visualizations help identify patterns and relationships within the dataset.
+
+---
+
+## Key Insights
+
+• Category A generated the highest total sales among all categories.
+
+• A strong positive correlation exists between Sales and Profit.
+
+• Certain regions consistently outperform others in revenue generation.
+
+• Sales distribution shows skewness, indicating a few high-performing products dominate the market.
+
+---
+
 ## Key Skills Demonstrated
 
 * Data Cleaning
@@ -51,6 +95,32 @@ The project demonstrates core **Data Analyst skills**, including data cleaning, 
 * Statistical Analysis
 * Python Data Processing
   
+---
+
+## Repository Structure
+
+python-data-analysis-project
+│
+├── dataset.csv
+├── eda_analysis.ipynb
+└── README.md
+
+---
+
+## How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/PRINCEMARIYA24/python-data-analysis-project
+
+Install required libraries
+
+pip install pandas numpy matplotlib seaborn
+
+Open the notebook
+
+jupyter notebook eda_analysis.ipynb
+
 ---
 
 ## Author
